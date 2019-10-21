@@ -1,0 +1,303 @@
+	
+	{
+	"ServerName":"Rainbow Rex",
+	"ButtonTxt1":"Welcome",
+	"ButtonTxt2":"Announcements",
+	"ButtonTxt3":"Donations",
+	"ButtonTxt4":"Rates",
+	"ButtonTxt5":"Rules",
+	"LinkButtonTxt1":"Discord",
+	"LinkButtonTxt2":"Donate",
+	"LinkButtonTxt3":"Patreon",
+	"LinkButtonTxt4":"Mods",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://discord.gg/jVgZecP",
+	"LinkButton2":"https://paypal.me/SarahEllis2004",
+	"Link1Button3":"https://www.patreon.com/join/RainbowRex",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"https://steamcommunity.com/sharedfiles/filedetails/?id=1758392805",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":3,
+	"Tab2Panelcount":2,
+	"Tab3Panelcount":3,
+	"Tab4Panelcount":2,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":3,
+	"BackgroundTab2":3,
+	"BackgroundTab3":3,
+	"BackgroundTab4":3,
+	"BackgroundTab5":3,
+	"Background3Color":"181.0,43.0,255.0,0.25",
+	"FontColorButtons":"163.0,255.0,59.0",
+	"FontColorServerName":"245.0,66.0,66.0",
+	"FontColorTabTitles":"245.0,66.0,185.0",
+	"FontColorTabText":"66.0,245.0,245.0",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"Welcome to the Rainbow!",
+	"Tab1Title2":"New to the server?",
+	"Tab1Title3":"TCs Reward Vault",
+	"Tab2Title1":"News",
+	"Tab2Title2":"Events",
+	"Tab2Title3":"",
+	"Tab3Title1":"Patreon",
+	"Tab3Title2":"Flash Sale",
+	"Tab3Title3":"Donator Only Reward Vault Packs",
+	"Tab4Title1":"Dino Rates",
+	"Tab4Title2":"Survivor Rates",
+	"Tab4Title3":"",
+	"Tab5Title1":"Server Rules",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"We are happy to have you join our community! Our goal is to provide a friendly experience with a positive atmosphere for our LGBTQ+ members. We encourage everyone to assume the best in others and to be respectful of other members.
+
+This info box is still under construction while we get used to this new mod. Please bare with us as we get it sorted out. Feedback and suggestions are welcome in our Discord server under #suggestions
+
+[Rainbow Staff]
+Owners
++Sarah - Executive
++Ralaa - Semi-Hiatus
+
+Admins
++Raemi - Patreon, Flash Sales, Reward Vault
++Nine - Event and PF Map Donations and Flash sales
++Phelix - et cetera
+
+Community Leader
++GinjurEEEEvil - Advertisements and Lottery
++Valascy - Emojis, Event Staff
++Kika - Event Staff
+",
+	"Tab1Text2":"Need a few suggestions of where to begin in your new cluster home?
++Click the Discord button below
++Post in #looking4tribe channel to find your new tribemates
++Build TCs Reward Vault for 1 Thatch in game for starter packs
++Place A Personal Gravestone to never lose your stuff when you die!
++Come to an Admin if you need help! Were here for you!
++Our gift to new members is a Raptor, Doed, and Anky! Check your inventory to get started on your journey.
+
+[Referral System]
+Refer a friend, partner, acquaintance, boss? When they play their first 10 hours, message an Admin to recieve 30 ARc bars each for you and your friend!",
+	"Tab1Text3":"1. Build TCs Reward Vault for 1 thatch 
+2. Place it on a wall 
+3. ??? 
+4. Profit
+
+[Ways to earn ARc Bars]
++10 ARc for the first time you log into each map
++5 ARc per week on each map you log into
++1 ARc per hour played on each map
+
+[Tradeable ARc Bars]
+There are ARc bar packs in the vault that allow you to transfer your points from one map to another as a consumable item. You can also trade these bars to other survivors as currency!
+
+The Reward Vault is constantly changing and adding new packs. Feel free to offer pack suggestions in the #suggestions channel on discord. Be sure to check your vault frequently for new content!
+
+TIP - Load into each map when you join to get your starter 15 points, buy 5 Gold and 1 Titanium ARc bar, transfer to the map you plan to base in and consume your bars to start out with 75 ARc points!",
+	"Tab2Text1":"Daily Dino Wipe at 5AM EST
+Daily Server Reset at 5:30AM EST
+
+[Mod Updates/Removal]
+-Uprade Station
++Hallow's Eve
++Randi's Halloween
+
+[New Admin/Staff]
+Introducing the new members of the Rainbow Staff
++Admin Raemi
+Raemi is in charge of setting up our new Patreon account (TBA!), organizing Flash Sales for each month, and TCs Reward Vault Packs. Be sure to shoot her a message if you are in need of any help!
++Community Leader Valascy
+Valascy is in charge of making customized Emojis, available soon via Patreon, and is a participating admin on the Event Map. Look to her if you need help with Discord related disagreements, making a ticket for the Admins, or if you just want to question her about her art!
++Community Leader Kika
+Kika is an Event Map Staff assistant. She is in charge of helping build up the map for future events and will be working in tandem with Nine to make sure everything is running smoothly! She has a hefty schedule but what time she does have for ARK is certainly concentrated to be as proactive as possible.
+
+[New TCs Reward Vault Packs]
++Halloween pack with costumes, candy, and a zomdodo for 10 ARc!
+
+
+[Cluster Meeting]
+October 13th @6PM EST
+Topics to Discuss:
++Genesis and Primal Fear
++Weekend Rate Events
++Upcoming Events
++Decayed Base Wipe Frequency
++Possible New Mod
++Suggestions for New Packs/Sales/Events
++TCs Reward Vault
+",
+	"Tab2Text2":"Times are all in EST. Best in Show will occur on the first Saturday of each month.
+
+October 5th @ 6PM
+[Best In Show]
+October's Color - Pink
+Bring your best pink dino to be judged in a contest against other members as the pinkiest dino around!
+[Prizes]
++Participation - One Dino Recolor (bring dino with you!)
++1st Place - Pinky Pie!
++2nd Place - Zomdodo
++3rd Place - Halloween Tapejara
++Raffle Prizes!
+[Location]
+Ragnarok Map (45,35)
+
+October 5th, 11th, 18th, 25th @ 7PM
+[Halloween Party]
+Reminders for what to bring!
+BRING GOLD ARC BARS TO RAFFLE WITH, BRING A DINO TO LEVEL, CREATE A RECIPE AND COOK ENOUGH TO SHARE RECIPE
+[Featured Activities]
+We will have costumes available to everyone by the front door! No need to worry what you'll wear.
++Trick or Treating by the Witch's Cauldrons
++Pot Luck in the Dining Hall
+-Bring a dish to share! 
++Custom recipes in a cooking pot, add a name, colors, and description, then make enough for everyone!
++Pumpkin Carving Stations
+Carvers will be entered into a drawing for ARc!
+-3x winners=10 ARc
++Tame a Witch's Familiar
+Grab a witch brew and a pumpkin pie to try and tame your own miniature dino familiar in one of our taming pens!
++Glass Maze
+Prizes
+-100 ARc
+-500 Element
+-50 ARc
++Haunted Hayride
+Join us on a haunted hayride around a Halloween themed Paracer through a spooky trail. Keep your eyes peeled for purple lights as there is a prize for those with a perceptive eye!
++Ghost Summons
+Can you be a Spectre of Defeat? See how many ghosts you can banish back to the netherworld and win some Prizes, Prizes, Prizizes! 
+-30 ARc
+-20 ARc
+-10 Arc
++Otter Raffle
+cost is 1 gold ARc bar per entry
+Raffle Prizes:
+-Lvl. 1k+ Halloween Otter
+-Halloween Element Dust Gacha
+-Unicorn straight from Unicorn Sparkle's own stable!
++Blood Sacrifice
+There will be a blood sacrifice to the Rainbow Rex Gods. Bring yourself or a dino to level.
+Cards Against Humanity
+-10 ARc for each winner
+[Location]
+Ragnarok Map (45,35)
+
+November 3rd @ 7PM
+[Best In Show]
+November's Color - Orange
+Bring your best orange dino to be judged in a contest against other members as the falliest dino around!
+[Prizes]
++Participation - One Dino Recolor (bring dino with you!)
++1st Place - TBA
++2nd Place - TBA
++3rd Place - TBA
++Raffle Prizes!
+[Location]
+Ragnarok Map (45,35)",
+	"Tab2Text3":"",
+	"Tab3Text1":"So we've reached that point where you like us and we like you. Why not make this official? We have Patreon tiers set up from 1$ to 50$, allowing every member to help support our ARK home. Donations are appreciated and will go toward server costs, new and exciting content for the community, and potential map additions.
+
+As appreciation for your assistance in helping grow our community, here are the following rewards you can expect to receive:
+Survivor - $1
++Donator Role in Discord
++Access to Donator Only packs in TCs Reward Vault
++1 ARc
+
+Compy - $5
++All previous tier rewards
++Dino Recolor
++5 ARc
+
+Microraptor - $10
++All previous tier rewards
++Lvl. 150 perfect tame Shoulder Pet
++10 ARc
+
+Raptor - $15
++All previous tier rewards
++Lvl. 150 perfect tame Velonasaur
++15 ARc
+
+Rex - $20
++All previous tier rewards
++Custom Discord Role Color
++Lvl. 150 perfect tame Tek Rex
++20 ARc
+
+Giga - $25
++All Previous Tier Rewards
++Add Emoji to Rainbow Rex
++Receive one item from each flash sale for the month
++25 ARc
+
+Overseer - $50
+This is the top tier for supporters of Rainbow Rex. Show your support with your very own Custom Emoji drawn by Valascy and made available in the Rainbow Rex Discord.
+Emojis will have a set list of options to choose from. We expect 7-30 days for order fulfillment.
++All Previous Tier Rewards
++Custom Emoji by Valascy
++50 ARc
+",
+	"Tab3Text2":"Weekly Flash Sales will begin Thursday morning and end Sunday evening. Use the donation button below to donate for the flash sales!
+All dino flash sales will be a perfect tame.
+
+!!!BE SURE TO CONTACT AND ADMIN AFTER PURCHASE SO WE MAY AWARD YOU WITH YOUR DONATION PRIZE!!!
+Rewards can be obtained in the TC Reward Vault of each map.
+
+[October]
++Week 1 Oct. 3-6
+$10 - Lvl. 150 Basilosaurus
+
++Week 2 Oct. 10-13
+$10 - Lvl. 500 Jerboa - Colored 
+
++Week 3 Oct. 17-20
+$20 - 20x S+ Dedicated Storage + 1x Intake
+
++Week 4 Oct. 24-27
+$15 - Your choice of a non-Ascension Summoned Boss kill
+
++Week 5 Oct. 31-Nov. 3
+$25 - Lvl. 200 Giga with Ascendant Saddle
+",
+	"Tab3Text3":"TBA",
+	"Tab4Text1":"Max Dino Level: 150
+Baby Mature: 30x
+Egg Hatch: 16x
+Mate Interval: 0.5x (2x faster than Vanilla)
+Passive Tame Interval: 0.3x (3x faster than Vanilla)
+Tame Speed: 15x
+Harvest: 4x
+Kill Experience: 3x
+
+[Cloning Info]
+Costs for cloning are dependant on dino type and level. Cloning times are based off of baby maturity rate.",
+	"Tab4Text2":"Tribes: 15 survivors, 500 tames loose, Unlimited in Soul Traps
+Harvest: 4x
+Kill Experience: 3x
+Hair Growth: 10x
+",
+	"Tab4Text3":"",
+	"Tab5Text1":"The most important thing to remember is to be respectful of your fellow community members. All of these rules are designed around that goal.
+
+1. No Ingame or Discord talk about, Religion or Politics. (We understand everyone has their own view points, and opinions, but do try to keep text and talk game related.)
+
+2. No Racist/Sexist/Homophobic slurs or hate speech. (We have a zero tolerance policy for the aforementioned, you will be removed from Discord as well as the Cluster.)
+
+3. No Pillar/Foundation spam, unless building in that location within a three day period. (This is to allow current and future community members to have many options as to where and what they can build.)
+
+4. Play fair (No use of exploits/meshing) and be kind to your fellow community members. (You may need their help one day, so keep it respectful.)
+
+5. If there are dinos up for claim, claim them and then post in lost and found to the owner/tribe name and if within 24 hours no one replies they are yours to keep. Be respectful of others schedules and give them a chance to reclaim their dinos.
+
+6. If you win a lottery or donate, it is YOUR job to contact an admin to get your reward delivery set up.
+",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
